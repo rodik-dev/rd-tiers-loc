@@ -29,7 +29,7 @@ sections:
     features:
       - title: Feature 1
         content: >
-          **asdfasdfasdf**
+          asdfasdfasdf
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
