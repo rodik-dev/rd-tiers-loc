@@ -28,7 +28,7 @@ sections:
     title: Features another
     features:
       - title: Feature 1
-        content: >+
+        content: >
           ## asdfasdfasdf
 
 
@@ -57,6 +57,11 @@ sections:
 
           2.  a23
 
+
+          \[I'm an inline-style link]\(https://www.google.com)
+
+
+          \[Hello wolrd]\(https://www.google.com)
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
