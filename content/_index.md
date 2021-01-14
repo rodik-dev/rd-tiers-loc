@@ -37,10 +37,7 @@ sections:
           fringilla, frin
 
 
-          ## 324## asdfasfds
-
-
-          ## sdfaasdfa
+          ## asdf
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
