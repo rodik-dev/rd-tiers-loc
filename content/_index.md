@@ -28,18 +28,14 @@ sections:
     title: Features another
     features:
       - title: Feature 1
-        content: >
+        content: >+
           # asdfasdfasdf
 
 
           sum **dolor sit** amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla,
+          fringilla
 
-
-
-
-          ![](https://source.unsplash.com/kFrdX5IeQzI)
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
