@@ -28,13 +28,35 @@ sections:
     title: Features another
     features:
       - title: Feature 1
-        content: >
+        content: >+
           ## asdfasdfasdf
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
+
+
+          ### asdfdsfg
+
+
+          asdf **fdgh** *sdfgsdfgs* sdfgs
+
+
+          *   sdfg
+
+
+          *   1234
+
+
+          asdf
+
+
+          1.  dfgsdf
+
+
+          2.  a23
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
