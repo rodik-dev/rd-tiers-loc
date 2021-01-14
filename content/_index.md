@@ -34,13 +34,7 @@ sections:
 
           a rem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, frin
-
-
-          *   asdfasdf
-
-
-          *   gfdsdfgsdfg
+          fringilla,
 
 
           ## asdf
